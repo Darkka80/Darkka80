@@ -40,7 +40,7 @@
 - Custom cart system
 - Category-based filtering
 - Beautiful UI with Tailwind, Daisy UI
-- Prisma API + React Query integration
+- React Query integration
 
 🎮 Also build Gamehub
 
