@@ -36,13 +36,13 @@
 
 ## 📂 Projects
 
-🧁 Currently working on a sweets and dessert website called **Sweet House** with:
+🧁 **Sweet House**:
 - Custom cart system
 - Category-based filtering
 - Beautiful UI with Tailwind, Daisy UI
 - Prisma API + React Query integration
 
-🎮 Also building a couples’ game app (**Zojiba**) in Unity — 6 mini-games, animations, and a custom admin panel.
+🎮 Also build Gamehub
 
 ---
 
