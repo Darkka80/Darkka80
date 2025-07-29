@@ -48,7 +48,7 @@
 
 ## 📫 Connect with me
 
-- [Instagram: @codewithda](https://instagram.com/codewithda)
+- [Instagram: @codewithda](https://instagram.com/code_withda)
 - GitHub: [@Darkka80](https://github.com/Darkka80)
 
 ---
